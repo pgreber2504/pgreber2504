@@ -44,13 +44,6 @@ I am a self-taught programmer and I want to focus my future on programming.</h3>
 <img alt="GIMP" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
 </p>
 
-### 📊 I learning from:
-<p>
-<img alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
-<img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=ESLint&logoColor=white"/>
-</p><br/>
-
 # 🎲 My interests:
 <p>
 <img alt="Gym" src="https://img.shields.io/badge/-Gym-lightgrey?style=for-the-badge" />
