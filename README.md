@@ -7,8 +7,8 @@
 
 # 👨🏽‍💻 About me:
 <h3>Hello!<br/>
-I'm Przemek and I come from Lodz, Poland. Now I looking for new job as a front-end developer :)<br/>
-I am a self-taught programmer and I want to focus my future on programming.</h3>
+I'm Przemek and I come from Lodz.
+</h3>
 
 # 💻 My stack:
 
