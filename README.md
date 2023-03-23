@@ -5,13 +5,6 @@
 <!--  <a href="https://www.facebook.com/karton92/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> -->
 </p>
 
-# 👨🏽‍💻 About me:
-<h3>Hello!<br/>
-I'm Przemek and I come from Lodz.
-</h3>
-
-# 💻 My stack:
-
 ### My core:
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />
@@ -28,9 +21,6 @@ I'm Przemek and I come from Lodz.
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
-### Next in my learning roadmap:
-<p>
-</p>
 
 ### Others:
 <p>
@@ -44,11 +34,3 @@ I'm Przemek and I come from Lodz.
 <img alt="GIMP" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
 </p>
 
-# 🎲 My interests:
-<p>
-<img alt="Gym" src="https://img.shields.io/badge/-Gym-lightgrey?style=for-the-badge" />
-<img alt="Climbing" src="https://img.shields.io/badge/-Climbing-9cf?style=for-the-badge" />
-<img alt="Football" src="https://img.shields.io/badge/-Football-86deb7?style=for-the-badge" />
-<img alt="Books" src="https://img.shields.io/badge/-Books-5bc0eb?style=for-the-badge" />
-<img alt="Games" src="https://img.shields.io/badge/-Games-d34e24?style=for-the-badge" />
-</p>
